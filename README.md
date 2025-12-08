@@ -36,3 +36,7 @@ Ugyan ez vonatkozik az átfordítás után a fejlécben a színre (ahol megjelen
 // Plusz jel
 <i className="fa-solid fa-plus"></i>
 ```
+
+## Új kártya hozzáadása
+
+Az új kártya hozzáadása lapnak egyelőre nem kell még működnie!
